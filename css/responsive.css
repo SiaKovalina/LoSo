@@ -1,0 +1,31 @@
+/*SMALL DEVICES*/
+@media only screen and (max-width: 767px) {
+    .navbar-default {
+        background-color: #fff !important;
+        border-color: #e6e6e6;
+    }
+}
+
+/*SMALL DEVICES AND TABLETS*/
+@media only screen and (max-width: 768px) {
+    
+    .header-iphone {
+        display: none;
+    }
+    
+    .header-text, 
+    .header-btns {
+        text-align: center;
+    }
+}
+
+/*MEDIUM DEVICES, DESKTOP*/
+@media only screen and (min-width: 992px) {
+    
+}
+
+
+/*LARGE DEVICES, WIDE SCREEN*/
+@media only screen and (max-width: ) {
+    
+}
